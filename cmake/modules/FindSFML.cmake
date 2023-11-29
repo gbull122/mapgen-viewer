@@ -65,7 +65,7 @@ set(FIND_SFML_PATHS
     ~/Downloads/SFML-2.5.0/SFML-2.5.0/include
     ${SFML_ROOT}
     $ENV{SFML_ROOT}
-    E:\\SFML-2.4.2
+    C:\\Users/georg/Downloads/SFML-2.6.0-windows-vc17-64-bit/SFML-2.6.0
     /Library/Frameworks
     /usr/local
     /usr
